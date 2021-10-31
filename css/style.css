@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: Arial, sans-serif;
+}
+body {
+  background: linear-gradient(45deg, rgb(58, 0, 151), rgb(0, 23, 151));
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  min-width: 100wh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main.conteiner {
+  background-color: white;
+  padding: 2rem;
+  min-height: 32vh;
+  min-width: 32wh;
+  border-radius: 8px;
+}
+main h2 {
+  font-weight: 600;
+  margin-bottom: 2rem;
+  position: relative;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input-field {
+  position: relative;
+}
