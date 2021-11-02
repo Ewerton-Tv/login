@@ -32,12 +32,32 @@ form {
 
 .imput-field {
   position: relative;
-  margin-bottom: 10px;
+}
+
+.imput-field input {
+  outline: none;
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+}
+
+form .imput-field:first-child {
+  margin-bottom: 1.5em;
 }
 
 .footer {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  margin-top: 1rem;
+}
+
+.footer span {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.button a {
+  outline: none;
 }
