@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Login Page</h1>
+<h1 align="center">Login Page</h1>
 
 -------------------------------------------------------------------
 
@@ -9,8 +9,8 @@
 -------------------------------------------------------------------
 
 ## Técnologias
-- HTML
-- CSS
+ <img width="120px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML">
+ <img width="120px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS">
 
 -------------------------------------------------------------------
 
